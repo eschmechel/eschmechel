@@ -12,6 +12,20 @@
 ### 🛠️&nbsp;Tech Stack
 ![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=unrealengine,unity,cpp,java,python,git,github,bash,linux&titles=true)
 ### ♠️&nbsp;Currently Learning
-![Currently Learning](https://go-skill-icons.vercel.app/api/icons?i=assembly,cloudflare,aws,blender,c,cs,tryhackme,regex,gitkraken,docker,nginx&titles=true)
+[![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Cloudflare](https://go-skill-icons.vercel.app/api/icons?i=cloudflare&titles=true)](https://www.cloudflare.com)
+[![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws&titles=true)](https://aws.amazon.com/)
+[![Blender](https://go-skill-icons.vercel.app/api/icons?i=blender&titles=true)](https://www.blender.org/)
+[![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)](https://en.cppreference.com/w/c/language.html)
+[![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![TryHackMe](https://go-skill-icons.vercel.app/api/icons?i=tryhackme&titles=true)](https://tryhackme.com/)
+[![Regex](https://go-skill-icons.vercel.app/api/icons?i=regex&titles=true)](https://en.wikipedia.org/wiki/Regular_expression)
+[![GitKraken](https://go-skill-icons.vercel.app/api/icons?i=gitkraken&titles=true)](https://www.gitkraken.com/)
+[![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true)](https://docker.com/)
+[![Nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx&titles=true)](https://nginx.org)
 ### 📱&nbsp;Social Media
-[![Linkedin Profile](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/eschmechel)&nbsp;[![Gmail Profile](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:elliottschmechel@gmail.com)&nbsp;[![Leetcode Profile](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/eschmechel/)&nbsp;[![Hackerrank Profile](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/elliottschmechel)&nbsp;[![TryHackMe Profile](https://go-skill-icons.vercel.app/api/icons?i=tryhackme)](https://tryhackme.com/p/eschmechel)&nbsp;
+[![Linkedin Profile](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/eschmechel)&nbsp;
+[![Gmail Profile](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:elliottschmechel@gmail.com)&nbsp;
+[![Leetcode Profile](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/eschmechel/)&nbsp;
+[![Hackerrank Profile](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/elliottschmechel)&nbsp;
+[![TryHackMe Profile](https://go-skill-icons.vercel.app/api/icons?i=tryhackme)](https://tryhackme.com/p/eschmechel)&nbsp;
