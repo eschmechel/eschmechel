@@ -31,9 +31,27 @@
 [![GitKraken](https://go-skill-icons.vercel.app/api/icons?i=gitkraken&titles=true "GitKraken")](https://www.gitkraken.com/)
 [![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true "Docker")](https://docker.com/)
 [![Nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx&titles=true "Nginx")](https://nginx.org)
-### 📱&nbsp;Social Media
+### 📱&nbsp;Contact Me
 [![Linkedin Profile](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true "My Linkedin Profile")](https://www.linkedin.com/eschmechel)&nbsp;
 [![Gmail Profile](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true "Email Me")](mailto:elliottschmechel@gmail.com)&nbsp;
 [![Leetcode Profile](https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true "My Leetcode Profile")](https://leetcode.com/u/eschmechel/)&nbsp;
 [![Hackerrank Profile](https://go-skill-icons.vercel.app/api/icons?i=hackerrank&titles=true "My Hackerrank Profile")](https://www.hackerrank.com/profile/elliottschmechel)&nbsp;
 [![TryHackMe Profile](https://go-skill-icons.vercel.app/api/icons?i=tryhackme&titles=true "My TryHackMe Profile")](https://tryhackme.com/p/eschmechel)&nbsp;
+<hr>
+<pre>
+            __:.__
+           (_:..'"=
+            ::/ o o\         AHAH!
+           ;'-'   (_)     Spaceman Spiff      .
+           '-._  ;-'        wins again !  _'._|\/:
+           .:;  ;                .         '- '   /_
+          :.. ; ;,                \       _/,    "_<
+         :.|..| ;:                 \__   '._____  _)
+         :.|.'| ||                            _/ /
+         :.|..| :'                           `;--:
+         '.|..|:':       _               _ _ :|_\:
+      .. _:|__| '.\.''..' ) ___________ ( )_):|_|:
+:....::''::/  | : :|''| "/ /_=_=_=_=_=/ :_[__'_\3_)
+ ''''      '-''-'-'.__)-'
+</pre>
+<h6><i>Ascii Art by Shanaka Dias</i></h6>
