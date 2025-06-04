@@ -10,7 +10,15 @@
 📫&nbsp;You can email me at elliottschmechel@gmail.com. I'll try to respond as soon as possible!\
 📄&nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/eschmechel/) for more details about work experience.&nbsp;<hr>
 ### 🛠️&nbsp;Tech Stack
-![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=unrealengine,unity,cpp,java,python,git,github,bash,linux&titles=true)
+[![Unreal Engine](https://go-skill-icons.vercel.app/api/icons?i=unrealengine&titles=true)](https://www.unrealengine.com/)
+[![Unity](https://go-skill-icons.vercel.app/api/icons?i=unity&titles=true)](https://unity.com/)
+[![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true)](https://en.cppreference.com/w/cpp/)
+[![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)](https://dev.java/)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)](https://www.python.org/)
+[![Git](https://go-skill-icons.vercel.app/api/icons?i=git&titles=true)](https://git-scm.com/)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/)
+[![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash&titles=true)](https://www.gnu.org/software/bash/)
+[![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true)](https://www.kernel.org/)
 ### ♠️&nbsp;Currently Learning
 [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Cloudflare](https://go-skill-icons.vercel.app/api/icons?i=cloudflare&titles=true)](https://www.cloudflare.com)
