@@ -1,4 +1,7 @@
-## 👾&nbsp;Hello there!
+<div style="font-family: Consolas,monospace;font-size:15px;white-space: pre;background-color: #000000; color: #9900ff;padding: 2px;"><div> _____ _ _ _       _   _     ____                                                           </div><div>| ____| | (_) ___ | |_| |_  / ___|                                                          </div><div>|  _| | | | |/ _ \| __| __| \___ \                                                          </div><div>| |___| | | | (_) | |_| |_   ___) |                                                         </div><div>|_____|_|_|_|\___/ \__|\__| |____(_)                                                        </div><div> / ___| __ _ _ __ ___   ___  |  _ \ _ __ ___   __ _ _ __ __ _ _ __ ___  _ __ ___   ___ _ __ </div><div>| |  _ / _` | '_ ` _ \ / _ \ | |_) | '__/ _ \ / _` | '__/ _` | '_ ` _ \| '_ ` _ \ / _ \ '__|</div><div>| |_| | (_| | | | | | |  __/ |  __/| | | (_) | (_| | | | (_| | | | | | | | | | | |  __/ |   </div><div> \____|\__,_|_| |_| |_|\___| |_|   |_|  \___/ \__, |_|  \__,_|_| |_| |_|_| |_| |_|\___|_|   </div><div>                                              |___/                                         </div></div>
+<hr>
+
+### 👾&nbsp;Hello there!
 [![Github eschmechel](https://img.shields.io/github/followers/eschmechel?label=follow&style=social)](https://github.com/eschmechel)&nbsp;[![Website](https://img.shields.io/website?url=https://eschmechel.dev&up_color=blueviolet&down_color=red&logo=%23F38020&label=eschmechel.dev&link=https%3A%2F%2Feschmechel.dev)](https://eschmechel.dev)&nbsp;
 ### 👨‍💻&nbsp;About Me
 
