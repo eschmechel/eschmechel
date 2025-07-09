@@ -32,7 +32,7 @@
 [![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true "Docker")](https://docker.com/)
 [![Nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx&titles=true "Nginx")](https://nginx.org)
 ### 📱&nbsp;Contact Me
-[![Linkedin Profile](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true "My Linkedin Profile")](https://www.linkedin.com/eschmechel)&nbsp;
+[![Linkedin Profile](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true "My Linkedin Profile")](https://www.linkedin.com/in/eschmechel)&nbsp;
 [![Gmail Profile](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true "Email Me")](mailto:elliottschmechel@gmail.com)&nbsp;
 [![Leetcode Profile](https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true "My Leetcode Profile")](https://leetcode.com/u/eschmechel/)&nbsp;
 [![TryHackMe Profile](https://go-skill-icons.vercel.app/api/icons?i=tryhackme&titles=true "My TryHackMe Profile")](https://tryhackme.com/p/eschmechel)&nbsp;
