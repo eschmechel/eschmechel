@@ -5,7 +5,8 @@
 ### 👨‍💻&nbsp;About Me
 
 📓&nbsp; I'm a software developer, currently pursuring a Associate of Science in Computer Science at <a href="https://langara.ca">Langara College</a>! \
-🎮&nbsp; I'm focusing on game design with an interest in Game Hacking & Anticheat development.<br>You can see my current efforts of the 20 games challenge at [games.eschmechel.dev](https://games.eschmechel.dev)\
+🎮&nbsp; I'm focusing on game design with an interest in Game Hacking & Anticheat development.\
+🚀&nbsp; You can see my current efforts of the 20 games challenge at [games.eschmechel.dev](https://games.eschmechel.dev)\
 🎯&nbsp; After gaining my Associate's degree, I plan on pursuing a Bacheleor's Degree in Computer Science.\
 🌱&nbsp; I'm learning more about game theory, writing kernel-level anticheat, code injection, and memory obfuscation.\
 ✍️&nbsp; In my freetime, I like to ski, listen to GDC talks, and make Ascii art.\
