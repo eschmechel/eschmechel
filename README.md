@@ -1,6 +1,6 @@
 ### 👾&nbsp;Hello there!
 [![Personal Website](https://img.shields.io/website?url=https://eschmechel.dev&up_color=blueviolet&down_color=red&logo=%23F38020&label=eschmechel.dev&link=https%3A%2F%2Feschmechel.dev "Personal Website")](https://eschmechel.dev)&nbsp;
-[![Game Challenge Website](https://img.shields.io/website?url=https://eschmechel.dev&up_color=blueviolet&down_color=red&logo=%23F38020&label=games.eschmechel.dev&link=https%3A%2F%2Feschmechel.dev "Game Challenge Website")](https://games.eschmechel.dev)&nbsp;
+[![Game Challenge Website](https://img.shields.io/website?url=https://games.eschmechel.dev&up_color=blueviolet&down_color=red&logo=%23F38020&label=games.eschmechel.dev&link=https%3A%2F%2Feschmechel.dev "Game Challenge Website")](https://games.eschmechel.dev)&nbsp;
 
 ### 👨‍💻&nbsp;About Me
 
