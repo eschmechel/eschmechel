@@ -10,7 +10,7 @@
 🎯&nbsp; After gaining my Associate's degree, I plan on pursuing a Bacheleor's Degree in Computer Science.\
 🌱&nbsp; I'm learning more about game theory, writing kernel-level anticheat, code injection, and memory obfuscation.\
 ✍️&nbsp; In my freetime, I like to ski, listen to GDC talks, and make Ascii art.\
-📫&nbsp;You can contact me at elliottschmechel@gmail.com
+📫&nbsp;You can contact me at elliottschmechel@gmail.com \
 📄&nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/eschmechel/) for more details about work experience.&nbsp;<hr>
 ### 🛠️&nbsp;Tech Stack
 
