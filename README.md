@@ -17,7 +17,6 @@
 [![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true "Java")](https://dev.java/)
 [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true "Python")](https://www.python.org/)
 [![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=typescript&titles=true "TypeScript")](https://www.typescriptlang.org)
-[![Git](https://go-skill-icons.vercel.app/api/icons?i=git&titles=true "Git")](https://git-scm.com/)
 [![Cloudflare](https://go-skill-icons.vercel.app/api/icons?i=cloudflare&titles=true "Cloudflare")](https://www.cloudflare.com)
 [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash&titles=true "Bash")](https://www.gnu.org/software/bash/)
 [![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true "Linux")](https://www.kernel.org/)
