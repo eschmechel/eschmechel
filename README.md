@@ -14,12 +14,13 @@
 📄&nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/eschmechel/) for more details about work experience.&nbsp;<hr>
 ### 🛠️&nbsp;Tech Stack
 
-[![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true "Java")](https://dev.java/)
+[![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true "C++")](https://en.cppreference.com/w/cpp/)
 [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true "Python")](https://www.python.org/)
 [![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=typescript&titles=true "TypeScript")](https://www.typescriptlang.org)
 [![Cloudflare](https://go-skill-icons.vercel.app/api/icons?i=cloudflare&titles=true "Cloudflare")](https://www.cloudflare.com)
 [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash&titles=true "Bash")](https://www.gnu.org/software/bash/)
 [![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true "Linux")](https://www.kernel.org/)
+[![Astro](https://go-skill-icons.vercel.app/api/icons?i=astro&titles=true "Astro")](https://astro.build/)
 ### ♠️&nbsp;Currently Learning
 [![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true "C# Programming Language")](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true "C++")](https://en.cppreference.com/w/cpp/)
@@ -27,7 +28,6 @@
 [![Unity](https://go-skill-icons.vercel.app/api/icons?i=unity&titles=true "Unity")](https://unity.com/)
 [![Godot](https://go-skill-icons.vercel.app/api/icons?i=godot&titles=true "Godot Engine")](https://en.cppreference.com/w/cpp/)
 [![Blender](https://go-skill-icons.vercel.app/api/icons?i=blender&titles=true "Blender")](https://www.blender.org/) 
-[![Astro](https://go-skill-icons.vercel.app/api/icons?i=astro&titles=true "Astro")](https://astro.build/)
 ### 📱&nbsp;Contact Me
 [![Linkedin Profile](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true "My Linkedin Profile")](https://www.linkedin.com/in/eschmechel)
 [![Gmail Profile](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true "Email Me")](mailto:elliottschmechel@gmail.com)
