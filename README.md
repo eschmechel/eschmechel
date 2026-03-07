@@ -21,10 +21,8 @@
 [![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true "Linux")](https://www.kernel.org/)
 [![Astro](https://go-skill-icons.vercel.app/api/icons?i=astro&titles=true "Astro")](https://astro.build/)
 ### ♠️&nbsp;Currently Learning
-[![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true "C# Programming Language")](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true "C++")](https://en.cppreference.com/w/cpp/)
 [![Unreal Engine](https://go-skill-icons.vercel.app/api/icons?i=unrealengine&titles=true "Unreal Engine")](https://www.unrealengine.com/)
-[![Unity](https://go-skill-icons.vercel.app/api/icons?i=unity&titles=true "Unity")](https://unity.com/)
 [![Godot](https://go-skill-icons.vercel.app/api/icons?i=godot&titles=true "Godot Engine")](https://en.cppreference.com/w/cpp/)
 [![Blender](https://go-skill-icons.vercel.app/api/icons?i=blender&titles=true "Blender")](https://www.blender.org/) 
 ### 📱&nbsp;Contact Me
