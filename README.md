@@ -1,33 +1,79 @@
-# Elliott Schmechel
-[![Website](https://img.shields.io/badge/site-eschmechel.dev-111827?style=flat-square)](https://eschmechel.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Elliott%20Schmechel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eschmechel/)
-![Location](https://img.shields.io/badge/Vancouver-BC-0f766e?style=flat-square)
+<a href="https://eschmechel.dev"><img src="assets/header.svg" alt="eschmechel — Elliott Schmechel, systems-focused builder. eschmechel.dev" width="100%"></a>
 
-I'm a software developer in Vancouver focused on backend, infrastructure, and systems work. <br>
-Right now I'm finishing an Associate of Science in Computer Science at Langara.<br>
-Most of what I build lands somewhere between product and systems: <br>
-TypeScript when I want to ship quickly, Go when I want to build backend or infra tooling, and C++ when I want to get closer to the metal.
+### `[1] whoami`
 
-## What I'm Building
-| Project               | Notes                                                                                                                |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Cloudflare-native CMS** | My next main project. A CMS for my blog built with Workers, D1, and R2 so I can publish on something I actually use. |
-| **Go infra tooling**      | I'm moving deeper into backend and infrastructure work, starting with network and policy analysis tooling.           |
-| **C++ systems projects**  | Networking, process behaviour, and lower-level tooling. This is the lane I want to keep pushing on.                   |
-## Current Stack
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-## A Few Things Worth Looking At
-- [`codecrafters-dns-server-cpp`](https://github.com/eschmechel/codecrafters-dns-server-cpp) - C++ DNS server work that pulled me further into packet parsing and resolver behaviour
-- [`LMSAIH/LangaraScraper`](https://github.com/LMSAIH/LangaraScraper) - a practical tool built around a real student problem
-- [`unac-vancouver/unacv-website`](https://github.com/unac-vancouver/unacv-website) - shipped work for a real organization
-- [`eschmechel.dev`](https://eschmechel.dev) - my site, writing, and eventually the home of the new CMS
-## What I'm Looking For
-I'm aiming for backend, platform, infrastructure, and security-adjacent software roles in Vancouver or on remote teams.
-If you found me through one of the projects, feel free to reach out.
+I ship end to end across Go, C++, TypeScript and Python, from GPU training infrastructure and
+self-training AI agents to real-time apps at the edge.
+
+Most recently: an on-device lip-reading pipeline at StormHacks, a loop that turns an agent's
+repeated work into small fine-tuned specialists, and a summer as a Technical Content Engineer at
+LicenseSpring writing SDK samples and developer education. Final-year CS at Langara. Daily driver: Arch.
+
+```text
+now
+  building   the Langara CS Club website redesign
+  building   a universal post-secondary Discord bot
+  studying   final year of CS at Langara
+```
+
+### `[2] projects`
+
+- **[heard](https://github.com/LMSAIH/stormhacks2026)** `StormHacks 2026 · team of 4`  
+  Silent-speech app: reads your lips from a webcam and speaks for you. I built the on-device lip-reading pipeline (Auto-AVSR → ONNX, int8, 775 MB → 203 MB, in the browser) and the FastAPI GPU inference service on RunPod. · [devpost](https://devpost.com/software/heard-37hzow)
+
+- **[hermes-apprentice](https://github.com/eschmechel/hermes-apprentice)** `winner · Hermes Agent Challenge`  
+  A second learning loop for Hermes Agent: distills its recurring work into 18 MB QLoRA specialists on vLLM (~38 ms p50 local vs multi-second API calls), each gated by a held-out F1 test and a canary ramp. · [writeup](https://eschmechel.dev/blog/skills-are-prompts-heres-how-hermes-apprentice-turns-them-into-weights) · [devpost](https://devpost.com/software/hermes-apprentice)
+
+- **[learnlm](https://github.com/LMSAIH/xhacks2026)** `Best Use of SFUCoursesAPI · XHacks 2026`  
+  AI tutoring for SFU students. I built the Cloudflare Workers backend: a Vectorize RAG pipeline over 998 courses, voice tutoring over Durable Objects, and an MCP server with 21 tools. · [devpost](https://devpost.com/software/learn-lm)
+
+- **[dataforall](https://github.com/LMSAIH/htc2026)** `HTC 2026 · infrastructure lead`  
+  Distributed GPU training platform: Kubernetes backend, H100s provisioned via the Lambda Labs API, and worker lifecycle management that reclaims idle GPU spend. · [devpost](https://devpost.com/software/data-for-all)
+
+- **[beepd](https://github.com/eschmechel/beepd)** `Lone Wanderer Award · JourneyHacks 2026 · solo`  
+  Privacy-first friend radar, solo-built in 12 hours on Hono + D1 with geospatial queries and auto-expiring locations. · [devpost](https://devpost.com/software/beepd)
+
+- **[mapd](https://github.com/LMSAIH/StormHacks2025)** `1st · StormHacks 2025 · Best Design`  
+  Urban development intelligence for Vancouver: drop a pin and get a plain-language brief on how a project affects its neighbourhood. · [devpost](https://devpost.com/software/mapd-urban-development-intelligence)
+
+### `[3] resume`
+
+```text
+2026 –       Vice President           Langara Computer Science Club
+2026         Technical Content Eng.   LicenseSpring (summer)
+2026         Volunteer                Web Summit Vancouver
+2025 –       Fullstack dev (vol.)     United Nations Association — Vancouver
+2025 – 2026  Founding member & dev    Student Software Association
+2024 – 2025  Game tester              Riot Games
+2024 –       CS, Associate of Sci.    Langara College · grad May 2027
+```
+
+Full history on [eschmechel.dev/resume](https://eschmechel.dev/resume) · [PDF](https://eschmechel.dev/Elliott-Schmechel-Resume.pdf)
+
+### `[4] blog`
+
+- [Protect Yourself, Mesh Yourself](https://eschmechel.dev/blog/protect-yourself-mesh-yourself) <sub>· Jul 2026</sub>
+- [The most useful tool in my dev setup is a password manager](https://eschmechel.dev/blog/the-most-useful-tool-in-my-dev-setup-is-a-password-manager) <sub>· Jul 2026</sub>
+- [Your AI slop bores me](https://eschmechel.dev/blog/your-ai-slop-bores-me) <sub>· Jun 2026</sub>
+- [Skills are Prompts. Here's how Hermes Apprentice turns them into weights](https://eschmechel.dev/blog/skills-are-prompts-heres-how-hermes-apprentice-turns-them-into-weights) <sub>· May 2026</sub>
+
+### `[5] ~/`
+
+```text
+languages   Go · C++ · Python · TypeScript · SQL · Bash
+backend     Hono · FastAPI · Next.js · Drizzle · PostgreSQL
+infra       Docker · Kubernetes · Proxmox · Firecracker · Cloudflare Workers/D1 · GitHub Actions
+ml / ai     LoRA fine-tuning (Unsloth) · local LLMs · MCP servers · RAG (Vectorize)
+homelab     3 Proxmox nodes, live status on eschmechel.dev/~
+```
+
+<sub>[eschmechel.dev](https://eschmechel.dev) · [email](mailto:elliottschmechel@gmail.com) · [linkedin](https://linkedin.com/in/eschmechel) · [dev.to](https://dev.to/eschmechel)</sub>
+
+```text
+       _                        /\=/\
+      (_)                      (=o.o=)
+     /|_|\___________________  /     \
+      | |                    \|_______|
+     _| |_                    (o)   (o)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
